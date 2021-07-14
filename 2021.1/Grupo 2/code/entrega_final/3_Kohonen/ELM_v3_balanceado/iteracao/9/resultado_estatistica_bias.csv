@@ -1,0 +1,2 @@
+iteracao;minimo;maximo;media;std;moda;curtose;acerto_sigmoid;tempo_sigmoid;acerto_sine;tempo_sine;acerto_hardlim;tempo_hardlim;acerto_tribas;tempo_tribas;acerto_dilatacao;tempo_dilatacao;acerto_erosao;tempo_erosao
+9;0.200000;0.800000;0.500556;0.172091;0.200000;1.860781;

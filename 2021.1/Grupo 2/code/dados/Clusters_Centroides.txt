@@ -1,0 +1,102 @@
+A simulação possui 6 clusters 
+A simulação possui 2 bases, são elas ['tedio', 'estresse'] 
+A simulação possui 6 emocoes, são elas ['angry', 'disgusted', 'fear', 'sad', 'surprised', 'happy'] 
+A simulação possui limite inferior de 0 e superior de 2000 
+
+
+Cluster 1 na base tedio
+O Centróide do cluster 1 em tedio na emoção angry é 290.17034114713766
+ O Centróide do cluster 1 em tedio na emoção disgusted é 305.8155788216224
+ O Centróide do cluster 1 em tedio na emoção fear é 117.08714392580848
+ O Centróide do cluster 1 em tedio na emoção sad é 470.84007016367406
+ O Centróide do cluster 1 em tedio na emoção surprised é 310.1384304939792
+ O Centróide do cluster 1 em tedio na emoção happy é 432.7346251086219
+ 
+Cluster 1 na base estresse
+O Centróide do cluster 1 em estresse na emoção angry é 342.01923622484475
+ O Centróide do cluster 1 em estresse na emoção disgusted é 356.3212761170508
+ O Centróide do cluster 1 em estresse na emoção fear é 146.58688577603104
+ O Centróide do cluster 1 em estresse na emoção sad é 477.3910095579093
+ O Centróide do cluster 1 em estresse na emoção surprised é 277.2196648674539
+ O Centróide do cluster 1 em estresse na emoção happy é 409.26398493445123
+ 
+Cluster 2 na base tedio
+O Centróide do cluster 2 em tedio na emoção angry é 607.5201235748885
+ O Centróide do cluster 2 em tedio na emoção disgusted é 659.030508619787
+ O Centróide do cluster 2 em tedio na emoção fear é 237.95175196042698
+ O Centróide do cluster 2 em tedio na emoção sad é 344.227329368589
+ O Centróide do cluster 2 em tedio na emoção surprised é 355.31176170643147
+ O Centróide do cluster 2 em tedio na emoção happy é 629.8579561564615
+ 
+Cluster 2 na base estresse
+O Centróide do cluster 2 em estresse na emoção angry é 556.2012421288956
+ O Centróide do cluster 2 em estresse na emoção disgusted é 419.325247104114
+ O Centróide do cluster 2 em estresse na emoção fear é 487.829422987647
+ O Centróide do cluster 2 em estresse na emoção sad é 376.65210228100716
+ O Centróide do cluster 2 em estresse na emoção surprised é 344.54961504116056
+ O Centróide do cluster 2 em estresse na emoção happy é 668.9735795218036
+ 
+Cluster 3 na base tedio
+O Centróide do cluster 3 em tedio na emoção angry é 286.02263885045437
+ O Centróide do cluster 3 em tedio na emoção disgusted é 307.0952028814888
+ O Centróide do cluster 3 em tedio na emoção fear é 113.19600060565318
+ O Centróide do cluster 3 em tedio na emoção sad é 385.61280942258435
+ O Centróide do cluster 3 em tedio na emoção surprised é 263.1935011932169
+ O Centróide do cluster 3 em tedio na emoção happy é 361.05069585138284
+ 
+Cluster 3 na base estresse
+O Centróide do cluster 3 em estresse na emoção angry é 332.58951221340425
+ O Centróide do cluster 3 em estresse na emoção disgusted é 297.01687491126285
+ O Centróide do cluster 3 em estresse na emoção fear é 121.26561335746077
+ O Centróide do cluster 3 em estresse na emoção sad é 304.7876155545966
+ O Centróide do cluster 3 em estresse na emoção surprised é 212.4960074005329
+ O Centróide do cluster 3 em estresse na emoção happy é 400.8441944146122
+ 
+Cluster 4 na base tedio
+O Centróide do cluster 4 em tedio na emoção angry é 205.77887438902974
+ O Centróide do cluster 4 em tedio na emoção disgusted é 220.4451468830446
+ O Centróide do cluster 4 em tedio na emoção fear é 222.57710602415787
+ O Centróide do cluster 4 em tedio na emoção sad é 486.0158648393755
+ O Centróide do cluster 4 em tedio na emoção surprised é 476.6070580686375
+ O Centróide do cluster 4 em tedio na emoção happy é 441.02107204076077
+ 
+Cluster 4 na base estresse
+O Centróide do cluster 4 em estresse na emoção angry é 217.75968992533413
+ O Centróide do cluster 4 em estresse na emoção disgusted é 283.1485676979252
+ O Centróide do cluster 4 em estresse na emoção fear é 211.44197262262912
+ O Centróide do cluster 4 em estresse na emoção sad é 467.63313706737404
+ O Centróide do cluster 4 em estresse na emoção surprised é 495.81348746990477
+ O Centróide do cluster 4 em estresse na emoção happy é 414.3124944029645
+ 
+Cluster 5 na base tedio
+O Centróide do cluster 5 em tedio na emoção angry é 273.5169629252324
+ O Centróide do cluster 5 em tedio na emoção disgusted é 266.75410272893777
+ O Centróide do cluster 5 em tedio na emoção fear é 136.83210123046757
+ O Centróide do cluster 5 em tedio na emoção sad é 566.5420533199151
+ O Centróide do cluster 5 em tedio na emoção surprised é 326.4341336100231
+ O Centróide do cluster 5 em tedio na emoção happy é 442.7289593521227
+ 
+Cluster 5 na base estresse
+O Centróide do cluster 5 em estresse na emoção angry é 396.8537554915765
+ O Centróide do cluster 5 em estresse na emoção disgusted é 377.8269035686309
+ O Centróide do cluster 5 em estresse na emoção fear é 118.43037968770706
+ O Centróide do cluster 5 em estresse na emoção sad é 466.704833946698
+ O Centróide do cluster 5 em estresse na emoção surprised é 275.0282580216015
+ O Centróide do cluster 5 em estresse na emoção happy é 424.18636784126386
+ 
+Cluster 6 na base tedio
+O Centróide do cluster 6 em tedio na emoção angry é 256.0384337176566
+ O Centróide do cluster 6 em tedio na emoção disgusted é 298.2323649332004
+ O Centróide do cluster 6 em tedio na emoção fear é 92.64530662597643
+ O Centróide do cluster 6 em tedio na emoção sad é 206.36966358969087
+ O Centróide do cluster 6 em tedio na emoção surprised é 165.25677491892284
+ O Centróide do cluster 6 em tedio na emoção happy é 462.53141039421877
+ 
+Cluster 6 na base estresse
+O Centróide do cluster 6 em estresse na emoção angry é 212.02799938911303
+ O Centróide do cluster 6 em estresse na emoção disgusted é 252.71824545077698
+ O Centróide do cluster 6 em estresse na emoção fear é 84.96424881690636
+ O Centróide do cluster 6 em estresse na emoção sad é 195.48298113720236
+ O Centróide do cluster 6 em estresse na emoção surprised é 164.0370627036361
+ O Centróide do cluster 6 em estresse na emoção happy é 474.9624429052207
+ 

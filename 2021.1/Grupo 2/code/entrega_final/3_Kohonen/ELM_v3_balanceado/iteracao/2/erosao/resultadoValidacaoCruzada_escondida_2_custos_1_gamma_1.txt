@@ -1,0 +1,9 @@
+media_train_accuracy_sem_pesos 0.551598
+std_train_accuracy_sem_pesos 0.000988
+media_test_accuracy_sem_pesos 0.551225
+std_test_accuracy_sem_pesos 0.005310
+media_TrainingTime_sem_pesos 14.640625
+std_TrainingTime_sem_pesos 0.301724
+media_TestingTime_sem_pesos 0.196875
+std_TestingTime_sem_pesos 0.018340
+==============================

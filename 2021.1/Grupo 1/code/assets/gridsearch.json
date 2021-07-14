@@ -1,0 +1,423 @@
+{
+    "AdaBoostClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "base_estimator__criterion": [
+            "gini",
+            "entropy"
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "AdaBoostRegressor": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "base_estimator__criterion": [
+            "mse",
+            "friedman_mse"
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "BaggingClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "base_estimator__criterion": [
+            "gini",
+            "entropy"
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "BalancedBaggingClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "sampling_strategy": [
+            0.7,
+            0.75,
+            0.8
+        ],
+        "base_estimator__criterion": [
+            "gini",
+            "entropy"
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "BaggingRegressor": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "base_estimator__criterion": [
+            "mse",
+            "friedman_mse"
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "GradientBoostingClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "criterion": [
+            "mse",
+            "friedman_mse"
+        ],
+        "loss": [
+            "deviance",
+            "exponential"
+        ],
+        "min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "GradientBoostingRegressor": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "criterion": [
+            "mse",
+            "friedman_mse"
+        ],
+        "min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "RandomForestClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "class_weight": [
+            "balanced"
+        ],
+        "criterion": [
+            "gini",
+            "entropy"
+        ],
+        "min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "BalancedRandomForestClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "class_weight": [
+            "balanced"
+        ],
+        "criterion": [
+            "gini",
+            "entropy"
+        ],
+        "sampling_strategy": [
+            0.7,
+            0.75,
+            0.8
+        ],
+        "min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "RandomForestRegressor": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "RUSBoostClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "sampling_strategy": [
+            0.7,
+            0.75,
+            0.8
+        ],
+        "base_estimator__min_samples_split": [
+            2,
+            6,
+            10,
+            14
+        ],
+        "base_estimator__min_weight_fraction_leaf": [
+            0.0,
+            1e-4,
+            1e-8
+        ]
+    },
+    "XGBClassifier": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "verbosity": [
+            0
+        ],
+        "use_label_encoder": [
+            0
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "max_depth": [
+            30,
+            32,
+            34
+        ],
+        "max_delta_step": [
+            1,
+            2,
+            3,
+            5
+        ]
+    },
+    "XGBRegressor": {
+        "n_estimators": [
+            4,
+            8,
+            16,
+            32,
+            64,
+            128,
+            256,
+            512
+        ],
+        "verbosity": [
+            0
+        ],
+        "use_label_encoder": [
+            0
+        ],
+        "learning_rate": [
+            0.01,
+            0.05,
+            0.1,
+            0.5,
+            1
+        ],
+        "max_depth": [
+            30,
+            32,
+            34
+        ],
+        "max_delta_step": [
+            1,
+            2,
+            3,
+            5
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "AdaBoostRegressor": {
+        "score": -21.0111242527578,
+        "params": {
+            "base_estimator__criterion": "friedman_mse",
+            "base_estimator__min_samples_split": 2,
+            "base_estimator__min_weight_fraction_leaf": 0.0001,
+            "learning_rate": 0.01,
+            "n_estimators": 512
+        }
+    },
+    "BaggingRegressor": {
+        "score": -22.148667630883494,
+        "params": {
+            "base_estimator__criterion": "friedman_mse",
+            "base_estimator__min_samples_split": 2,
+            "base_estimator__min_weight_fraction_leaf": 0.0001,
+            "n_estimators": 512
+        }
+    },
+    "GradientBoostingRegressor": {
+        "score": -22.87198371759567,
+        "params": {
+            "criterion": "friedman_mse",
+            "learning_rate": 0.5,
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0,
+            "n_estimators": 256
+        }
+    },
+    "RandomForestRegressor": {
+        "score": -22.14898013902495,
+        "params": {
+            "min_samples_split": 2,
+            "min_weight_fraction_leaf": 0.0001,
+            "n_estimators": 512
+        }
+    },
+    "XGBRegressor": {
+        "score": -26.567577320550612,
+        "params": {
+            "learning_rate": 1,
+            "max_delta_step": 5,
+            "max_depth": 32,
+            "n_estimators": 4,
+            "use_label_encoder": 0,
+            "verbosity": 0
+        }
+    }
+}

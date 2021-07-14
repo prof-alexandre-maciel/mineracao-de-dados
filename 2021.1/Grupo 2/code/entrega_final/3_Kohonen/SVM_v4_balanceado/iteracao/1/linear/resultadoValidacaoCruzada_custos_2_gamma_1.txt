@@ -1,0 +1,9 @@
+media_train_accuracy 0.000000
+std_train_accuracy 0.000000
+media_test_accuracy 0.000000
+std_test_accuracy 0.000000
+media_TrainingTime 0.001563
+std_TrainingTime 0.004941
+media_TestingTime 0.000000
+std_TestingTime 0.000000
+==============================
