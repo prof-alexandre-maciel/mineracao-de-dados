@@ -1,4 +1,4 @@
-# Mineração de Dados 2020.1 (2021)
+# Mineração de Dados 2020.1
 
 Repositório dos projetos da disciplina de **Mineração de Dados** referente a turma 2020.1 (2021) da Universidade de Pernambuco (POLI/E-Comp). Nesse período foram **desenvolvidos 8 projetos**, os quais contemplam a produção de artigo científico e o desenvolvimento de um protótipo de solução em formato de _Script_/Código.
 
