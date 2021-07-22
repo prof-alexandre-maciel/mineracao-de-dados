@@ -12,7 +12,7 @@ Repositório dos projetos da disciplina de **Mineração de Dados** da Universid
 * Previsão de duração de paradas de linha em uma indústria automotiva
 
 
-## Semestre 2021.1 (2020.1)
+## Semestre 2020.1 
 
 >  Nesse período foram **desenvolvidos 8 projetos**
 
